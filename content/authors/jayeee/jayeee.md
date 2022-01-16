@@ -1,7 +1,7 @@
 ---
 title: Jayeee
 bio: Gamer + Programer
-avatar: ''
+avatar: "/images/jayeee_avatar.jpg"
 social: []
 featured: false
 
